@@ -154,6 +154,6 @@ Version 1.0
 Version 1.1
 2016-12-30 Create load view
 2016-01-09 Support class inherited
-2016-01-09 Add function db->insert();
-2016-01-09 Add function db->insert_batch();
+2017-01-09 Add function db->insert();
+2017-01-09 Add function db->insert_batch();
 ```
